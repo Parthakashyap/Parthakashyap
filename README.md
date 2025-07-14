@@ -83,7 +83,7 @@ src="https://img.shields.io/github/followers/Parthakashyap?logo=github&style=for
 
 <a href="http://www.github.com/Parthakashyap"><img src="https://github-readme-stats.vercel.app/api?username=Parthakashyap&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Parthakashyap's GitHub stats" /></a>
 
-[![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Parthakashyap-0891b2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parthakashyap)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Parthakashyap&theme=tokyonight_duo&hide_border=true&border_radius=10&fire=0891b2&ring=0891b2)](https://github.com/Parthakashyap)
 
 
 
