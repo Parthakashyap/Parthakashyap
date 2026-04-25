@@ -98,11 +98,20 @@
 
 ---
 
-## 🏆 Trophies
+## 🎯 Quick Stats
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Parthakashyap&theme=tokyonight&no-frame=false&column=7&margin-w=8&margin-h=8)](https://github.com/Parthakashyap)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthakashyap&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parthakashyap&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parthakashyap&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parthakashyap&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parthakashyap&theme=tokyonight&utcOffset=5.5)
 
 </div>
 
